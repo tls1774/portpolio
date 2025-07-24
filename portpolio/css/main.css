@@ -277,10 +277,10 @@ header .inner .logo p span::after {
 	display: block;  /* jquery에서 특정 요소에 마우스를 오버하면 class명을 추가해주고 그때 나타남 */
     border-radius: 50%;
     background-color: #D44144;
-    width: 60px;
-    height: 60px;
+    width: 90px;
+    height: 90px;
     text-align: center;
-    line-height: 3;
+    line-height: 5;
     color: #fff;
 	/* 기본적인 스타일 주기 */	
 }

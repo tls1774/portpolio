@@ -22,7 +22,7 @@ header .gnb {
 header .gnb .back a {
     font-size: 28px;
     position: relative;
-    padding-left: 60px;
+    padding-left: 53px;
 }
 header .gnb .back a::before {
     content: "";

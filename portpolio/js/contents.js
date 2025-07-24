@@ -9,7 +9,7 @@ $(function () {
       });
       
       // 특정 요소에 마우스를 올렸을 때만 커서 보이기
-      $('.go a, .pc a, .pc img').hover(
+      $('.gnb .back, .go a, .pc a, .pc img').hover(
         function () {
           $('.cursor').addClass('on').text('click'); // 텍스트는 필요에 따라 변경 가능
         },
